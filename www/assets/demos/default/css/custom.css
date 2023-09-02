@@ -1,0 +1,114 @@
+.c-font-medium-grey {
+	color: #777777;
+}
+
+.c-bg-light-grey {
+	background-color: #F6F6F6;
+}
+
+.c-bg-medium-grey {
+	background-color: #DDDDDD;
+}
+
+.v-height {
+	height: 290px;
+}
+
+.c-active {
+	color: #9900FF;
+}
+
+.c-link {
+	color: #9900FF;
+}
+
+.card-padding {
+	padding: 24px 14px 24px 14px;
+}
+
+.t-short-margin {
+	margin-top: -10px;
+
+}
+
+.b-short-margin {
+	margin-bottom: 0px;
+
+}
+
+.t-bigger-margin {
+	margin-top: 20px;
+}
+
+.shy-table-cell {
+	vertical-align:middle;
+    height:220px;
+    display:table-cell;
+}
+
+.shy-table-container {
+	height:100%;
+    display:table;
+}
+
+.form-control-shy-simp {
+	font-size: 48px;
+	color: #333;
+	border: solid 1px;
+	border-color: #999;
+	padding: 10px;
+}
+
+.form-control-shy-trad {
+	font-size: 48px;
+	color: #999;
+	border: none 0px;
+	border-color: #999;
+	padding: 10px;
+	text-align: left;
+}
+
+.form-control-shy-piny {
+	font-size: 20px;
+	color: #999;
+	border: solid 1px;
+	border-color: #999;
+	padding: 10px;
+	text-align: left;
+	width: 100%;
+}
+
+.form-control-shy {
+	font-size: 20px;
+	color: #999;
+	border: solid 1px;
+	border-color: #999;
+	padding: 10px;
+	text-align: left;
+	width: 100%;
+}
+
+.c-navbar-result {
+
+    
+}
+
+.container-result1 {
+	width: 100%; 
+	background-color: #008800;
+	padding: 10px;
+	color: #FFF;
+	text-align: center;
+}
+
+.container-result2 {
+	width: 100%; 
+	background-color: #DD0000;
+	padding: 10px;
+	color: #FFF;
+	text-align: center;
+}
+
+
+
+

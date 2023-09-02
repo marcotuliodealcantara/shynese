@@ -2,7 +2,7 @@
 
 
 $host = 'localhost';
-$db = 'chineasy';
+$db = 'chineasy1';
 $username = 'root1';
 $password = 'root1';
 $port = '8889';

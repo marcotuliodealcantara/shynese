@@ -3,7 +3,7 @@ include("../vendor/autoload.php");
 use Google\Cloud\Translate\V2\TranslateClient;
 $translate = new TranslateClient([
 
-    'key' => "AIzaSyDlClu_-KwftXmgG4DYlvLXEHoNAEIJZRo"
+    'key' => ""
 
 ]);
 ?>

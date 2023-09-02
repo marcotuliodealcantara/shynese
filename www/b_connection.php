@@ -3,7 +3,7 @@
 
 $host = 'localhost';
 $db = 'chineasy2';
-$username = 'root1';
+$username = 'root';
 $password = 'root1';
 $port = '8889';
 

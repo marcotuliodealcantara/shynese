@@ -1,12 +1,5 @@
 <?php
 
-/*
-$host = 'localhost';
-$db = 'chineasy';
-$username = 'root';
-$password = 'chineasy';
-*/
-
 
 $host = 'localhost';
 $db = 'chineasy';
